@@ -1,0 +1,6 @@
+@TesteBraveTech_HostAddress = http://localhost:5258
+
+GET {{TesteBraveTech_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
